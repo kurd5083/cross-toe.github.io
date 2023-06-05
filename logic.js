@@ -10,7 +10,6 @@ let winIndex = [
     ['2', '5', '8'],
     ['3', '6', '9']
 ]
-
 let board = document.getElementById('board');
 let cell = document.getElementsByClassName('cell');
 
